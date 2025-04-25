@@ -1,0 +1,11 @@
+# ==-----------------------------------------------------------== #
+# SPDX-FileCopyrightText: © 2025 Nayan Patil <nayantsg@proton.me>
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+# ==-----------------------------------------------------------== #
+
+contact_links:
+  - name: Question
+    url: https://github.com/orgs/necronux/discussions/categories/q-a
+    about: Questions about how to use or contribute to Necronux belong in Github Discussions.
+      You can use the search to check if someone already answered your question!

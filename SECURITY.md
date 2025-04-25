@@ -20,4 +20,4 @@ The `develop` branch contains bleeding-edge commits that are not fully tested an
 
 ## Reporting a Vulnerability
 
-To report a bug, it is recommended to create an issue. If you prefer to report the bug privately, you can email me at [nayantsg@proton.me](mailto:nayantsg@proton.me).
+To report a bug, it is recommended to create an issue. If you prefer to report the bug privately, you can email at [nayantsg@proton.me](mailto:nayantsg@proton.me).

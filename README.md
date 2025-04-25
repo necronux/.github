@@ -18,4 +18,4 @@ This repository is distributed under the terms of `CC-BY-SA-4.0` license.
 
 ## Status
 
-![REUSE Compliance](https://img.shields.io/reuse/compliance/github.com%2Fnecronux%2F.github)
+[![REUSE status](https://api.reuse.software/badge/github.com/necronux/.github)](https://api.reuse.software/info/github.com/necronux/.github)

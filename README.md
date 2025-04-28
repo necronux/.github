@@ -8,7 +8,7 @@
 
 # .github
 
-Default community health files for repos in this org.
+Default community health files for repos in necronux org.
 
 If you're seeing this readme in your project, your project is configured wrong.
 

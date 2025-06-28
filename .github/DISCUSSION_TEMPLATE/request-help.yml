@@ -1,0 +1,36 @@
+# ==-----------------------------------------------------------== #
+# SPDX-FileCopyrightText: © 2025 Nayan Patil <nayantsg@proton.me>
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+# ==-----------------------------------------------------------== #
+
+body:
+  - type: textarea
+    id: the-question
+    attributes:
+      label: Please tell us more about your question or problem
+      description: |
+        Include a minimal reproduction if you think you found a bug.
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs (if relevant)
+      description: |
+        Try to paste the *relevant* logs here, not the entire thing.
+        If you're not sure about the relevant parts of the log, then feel free to post the full log to a [Github Gist](https://gist.github.com/) and link to it.
+        Try to highlight the important logs into the issue itself.
+      value: |
+        <details><summary>Logs</summary>
+
+        ```
+
+        Replace this text with your logs, between the starting and ending triple backticks
+
+        ```
+
+        </details>
+    validations:
+      required: false

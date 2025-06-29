@@ -1,0 +1,51 @@
+# ==-----------------------------------------------------------== #
+# SPDX-FileCopyrightText: © 2025 Nayan Patil <nayantsg@proton.me>
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+# ==-----------------------------------------------------------== #
+
+name: Tracking Issue (Direct Issue creation is not allowed)
+description: As a user of Necronux, please create a Discussion first - do not use this template to create an Issue!
+labels: ['category:tracking', 'state:meta']
+body:
+  - type: markdown
+    attributes:
+      value: '# This form is for Necronux administrators only.'
+
+  - type: markdown
+    attributes:
+      value: |
+        **Stop!** This form is for the Necronux administrators only.
+        If you're a user of Necronux, please create a GitHub Discussion.
+        Please go back a step and select _Contributors Community_ instead of Issue.
+        If you ignore these directions, you will be blocked from this repo.
+
+  - type: textarea
+    id: highlevel
+    attributes:
+      label: High Level
+      description: Please provide the overarching goal or idea.
+    validations:
+      required: true
+
+  - type: textarea
+    id: related
+    attributes:
+      label: Related threads & feature requests
+      description: Please provide links to any relevant issues, threads, or discussions.
+      placeholder: |
+        - #123 Chats / Discussions
+        - #456 User comments / annotations
+    validations:
+      required: false
+
+  - type: textarea
+    id: subissues
+    attributes:
+      label: Sub-issue Progress
+      description: List any related issues or tasks being tracked as part of this effort.
+      placeholder: |
+        - [ ] #123 Setup
+        - [x] #124 Refactor
+    validations:
+      required: false

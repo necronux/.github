@@ -8,7 +8,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Contributors Community
     url: https://github.com/orgs/necronux/discussions
-    about: Our preferred starting point for **contributors** with questions, feature requests, or bug reports for Necronux.
+    about: Our preferred starting point for contributors with questions, feature requests, or bug reports for Necronux.
   - name: Necronux Community
     url: https://community.necronux.net
-    about: Our preferred starting point for **non-contributors** with questions, feature requests, or bug reports for Necronux.
+    about: Our preferred starting point for non-contributors with questions, feature requests, or bug reports for Necronux.

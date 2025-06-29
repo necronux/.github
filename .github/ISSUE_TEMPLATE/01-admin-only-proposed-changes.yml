@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: CC-BY-SA-4.0
 # ==-----------------------------------------------------------== #
 
-name: Direct Issue creation is not allowed
+name: Proposed Changes (Direct Issue creation is not allowed)
 description: As a user of Necronux, please create a Discussion first - do not use this template to create an Issue!
 labels: ['state:needs-triage']
 body:
@@ -30,8 +30,8 @@ body:
 
   - type: markdown
     attributes:
-      value: '# Reminder for administrators:'
+      value: '# Reminder for administrators'
 
   - type: markdown
     attributes:
-      value: 'Before submitting the issue: add the correct **category:** label.'
+      value: 'Before submitting the issue, add the correct **category:** label.'

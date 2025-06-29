@@ -4,8 +4,11 @@
 # SPDX-License-Identifier: CC-BY-SA-4.0
 # ==-----------------------------------------------------------== #
 
+blank_issues_enabled: false
 contact_links:
-  - name: Question
-    url: https://github.com/orgs/necronux/discussions/categories/q-a
-    about: Questions about how to use or contribute to Necronux belong in Github Discussions.
-      You can use the search to check if someone already answered your question!
+  - name: Contributors Community
+    url: https://github.com/orgs/necronux/discussions
+    about: Our preferred starting point for **contributors** with questions, feature requests, or bug reports for Necronux.
+  - name: Necronux Community
+    url: https://community.necronux.net
+    about: Our preferred starting point for **non-contributors** with questions, feature requests, or bug reports for Necronux.

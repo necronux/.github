@@ -1,0 +1,27 @@
+# ==-----------------------------------------------------------== #
+# SPDX-FileCopyrightText: © 2025 Nayan Patil <nayantsg@proton.me>
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+# ==-----------------------------------------------------------== #
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **👋 Before suggesting a new idea...**
+
+        Please **search** the following locations to see if your idea has already been proposed:
+
+        - [Contributors Community](https://github.com/orgs/necronux/discussions)
+        - [Necronux Community](https://community.necronux.net)
+
+        If the idea already exists, please **upvote or comment on it** instead of creating a new one.
+        This helps keep the community clean and avoids duplicate discussions.
+
+  - type: textarea
+    id: discussion-field
+    attributes:
+      label: Tell us more.
+      description: Explain your idea for Necronux in this field.
+    validations:
+      required: true

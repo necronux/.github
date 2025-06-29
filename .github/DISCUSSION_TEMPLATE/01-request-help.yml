@@ -5,6 +5,18 @@
 # ==-----------------------------------------------------------== #
 
 body:
+  - type: markdown
+    attributes:
+      value: |
+        **👋 Before submitting your question...**
+
+        Please **search** the following first to see if your question or issue has already been asked or answered:
+
+        - [Contributors Community](https://github.com/orgs/necronux/discussions)
+        - [Necronux Community](https://community.necronux.net)
+
+        This helps keep the community clean and avoids duplicate discussions.
+
   - type: textarea
     id: the-question
     attributes:

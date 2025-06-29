@@ -6,7 +6,7 @@
 
 name: Notice Issue (Direct Issue creation is not allowed)
 description: As a user of Necronux, please create a Discussion first - do not use this template to create an Issue!
-labels: ['category:meta', 'state:meta']
+labels: ['category:notice', 'state:meta']
 body:
   - type: markdown
     attributes:

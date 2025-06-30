@@ -20,35 +20,35 @@ implementation
 <!-- If you're closing an existing issue with this pull request, use the keyword Closes #issue_number. -->
 <!-- If you're referencing an issue with this pull request, put it in a Markdown list like this: - #issue_number. -->
 
-### Documentation
+## Documentation
 
 - [ ] I have updated the documentation, or
 - [x] No documentation update is required
 
-### Added tests?
+## Added tests?
 
 - [ ] 👍 yes
 - [x] 🙅 no, because they aren't needed
 - [ ] 🙋 no, because I need help
 
-### How I've tested this (please select one)
+## How I've tested this (please select one)
 
 - [ ] Code review / Code inspection only, or
 - [ ] Unit tests, or
 - [ ] Ran on a real repository, or
 - [x] Both unit tests + ran on a real repository
 
-### Related Tickets & Documents
+## Related Tickets & Documents
 
 <!--
 Please provide links to issues, community forum posts, or other sources
 -->
 
-### Screenshots / Demos
+## Screenshots / Demos
 
 <!-- If this PR changes UI or behavior, include before/after screenshots, recordings, or links -->
 
-### Additional information
+## Additional information
 
 <!--
 Other information you want to mention in this PR, such as prior arts,
